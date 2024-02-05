@@ -12,7 +12,7 @@ Bu uygulama sadece tkinter kullanılarak hazırlanmıştır. Kullanıcıdan cins
 ### Örnek Resimler
 ![Uygulama Ekranı](https://github.com/Hamza-Eren/SignUpForm/blob/main/SignUpForm.png)
 > `Uygulama Ekranı`
-
+<br><br><br>
 
 Sign Up Form App
 
